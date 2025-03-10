@@ -4,10 +4,9 @@ I created this dashboard following a YouTube video with the purpose of studying 
 
 <img align="center" alt="Coding" width="400" src="https://aarp-content.brightspotcdn.com/dims4/default/7e8bc0b/2147483647/strip/true/crop/1280x704+0+0/resize/300x165!/quality/90/?url=http%3A%2F%2Faarp-brightspot.s3.amazonaws.com%2Fcontent%2F9c%2F9f%2F92b06d8444cca9de932674d5862c%2Ffinancialliteracy-rosewong-1280x704.gif">
 
-### Link to the video: https://www.youtube.com/watch?v=iO_22S_drAQ
-### Link to the channel: https://www.youtube.com/@datalab365 
-
-### Link to my Dashboard: https://tinyurl.com/mww2yp4k
+Link to the video: https://www.youtube.com/watch?v=iO_22S_drAQ
+Link to the channel: https://www.youtube.com/@datalab365 
+Link to my Dashboard: https://tinyurl.com/mww2yp4k
 
 I would like to express my gratitude to the channel and the creator of the video for sharing their knowledge and expertise. Thank you!
 
