@@ -8,7 +8,7 @@ I created this dashboard following a YouTube video with the purpose of studying 
 - Link to the channel: https://www.youtube.com/@datalab365 
 - Link to my Dashboard: https://tinyurl.com/mww2yp4k
 
-I would like to express my gratitude to the creator of the video for sharing his knowledge and expertise. Thank you!
+I would like to express my gratitude to the creator of the video for sharing his knowledge and expertise. 
 
 # Dataset
 The dataset used is a sample provided by Power BI and contains detailed information about sales. It contains the following columns:
